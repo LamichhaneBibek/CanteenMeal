@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AdminApp/app/src/main/res/drawable/circle_purple.xml" value="0.1" />
+        <entry key="..\:/AdminApp/app/src/main/res/drawable/circle_yellow.xml" value="0.1" />
+        <entry key="..\:/AdminApp/app/src/main/res/drawable/ic_image.xml" value="0.1" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/activity_dashboard.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/activity_upload_notice.xml" value="0.25" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/add_new_category.xml" value="0.14447463768115942" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/add_new_item.xml" value="0.18" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/content_dashboard.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_gallery.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_new_orders.xml" value="0.18" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_ongoing_orders.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_past_orders.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/mainmenu.xml" value="0.19972826086956522" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/nav_header_dashboard.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/layout/profile.xml" value="0.14447463768115942" />
+        <entry key="..\:/AdminApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/AdminApp/app/src/main/res/menu/dashboard.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
